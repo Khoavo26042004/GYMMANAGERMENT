@@ -24,7 +24,7 @@
     + In sources packages, open the file named MysqlConnect in GYMMANAGERMENT -> changes the url(Here, paste the one I asked you to copy above),user(your username in sql),pass(your password in sql)      
         ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/53cdf80f-1c1a-4c95-a17e-619727c31dde)
 # Some images of the project:
-  + Login of admind:
+  + Login of admin:
       ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/09180dca-f373-480e-a584-191a96cbe65a)
       ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/61fd7dc4-4b51-4508-9c77-ac6f68772ec3)
   + Login of customer:
