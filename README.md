@@ -12,7 +12,7 @@
   + Run Insert Into  
 # Setting project in netbeans:
   + Step 1: Right click on Database -> New Connection -> Add -> add mssql-jdbc-12.4.1-jre11.jar
-      ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/d2c5fd6d-9c1c-4c4f-a25b-60efb9a21f65)  
+      ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/d1ebb5eb-4f01-4755-8158-74f7ffa36664)  
       ![image](https://github.com/Khoavo26042004/GYMMANAGERMENT/assets/154489298/4f5fd162-7faf-495e-bf7c-5afea4db4180)
   + Step 2:Click on Next button
     + At Database line is your the project name in sql.Example: Above I have a name database is GYMMANAGERMENT  
